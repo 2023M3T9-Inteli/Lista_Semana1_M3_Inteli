@@ -28,7 +28,7 @@ def test_soma_dos_aninhados():
     lista = [[11, 22], [33], [44, 55, 66]]
     outra_lista = [[1, 2, 3, 4], [3, 3], [4, 6]]
     assert exercicio1.soma_dos_aninhados(lista) == 231
-    assert exercicio1.soma_dos_aninhados(outra_lista) == 27
+    assert exercicio1.soma_dos_aninhados(outra_lista) == 26
 
 
 def test_tem_duplicados():
