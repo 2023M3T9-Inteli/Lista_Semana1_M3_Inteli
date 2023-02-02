@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=U1vCFZmtYUA&t=1s
 
 ## Exercício 1
 
-Escreva uma função chamada **multiplas_operacoes**, esta função deverá receber duas variáveis por parâmetro e retornar as quatro operações básicas, soma, subtração, multiplicação e divisão, nesta ordem. Adicione uma estrutura de decisão evitar divisão por zero.
+Escreva uma função chamada **multiplas_operacoes**, esta função deverá receber duas variáveis por parâmetro e retornar as quatro operações básicas, soma, subtração, multiplicação e divisão, nesta ordem. Adicione uma estrutura de decisão evitar divisão por zero, caso exista divisão por zero, retorne zero.
 
 
 
